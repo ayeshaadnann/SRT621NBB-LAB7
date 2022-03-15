@@ -1,0 +1,19 @@
+{
+  "name": "srt621nbb-lab7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayeshaadnann/SRT621NBB-LAB7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayeshaadnann/SRT621NBB-LAB7/issues"
+  },
+  "homepage": "https://github.com/ayeshaadnann/SRT621NBB-LAB7#readme"
+}
